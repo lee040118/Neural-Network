@@ -1,8 +1,7 @@
 # Natural-Language-Processing
-자연어 처리
 
 Bert_movie.py 
--NSMC in Bert
+- NSMC in Bert
 
 BinaryClassifying_Names.py 
 - binary classification in RNN 
